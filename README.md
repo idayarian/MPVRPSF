@@ -17,5 +17,3 @@ Column 9. -1 is a plant
 Vehicle capacity
 Vehicle fixed cost
 Period’s production coefficient	Period’s weight
-
-
